@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital@1&display=swap');
+
+.name-head{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    color: rgb(101, 101, 105);
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.photo-pablo{
+    width: 140px;
+    border-radius: 550px;
+}
+
+.form{
+    display:flex;
+    justify-content: space-evenly;
+}
+.inform{
+    color: rgb(91, 95, 95);
+    background-color: rgb(226, 224, 220);
+    font-size: 25px;
+    padding: 10px;
+    margin-right: 405px;
+    margin-left: 405px;
+}
+.for-me{
+    color: rgb(91, 95, 95);
+    background-color: rgb(226, 224, 220);
+    font-size: 100%;
+    padding:30px ;
+    margin-top: 30px;
+    margin-right: 405px;
+    margin-left: 405px;
+}
+.for-me p{
+    font-size: 25px;
+}
